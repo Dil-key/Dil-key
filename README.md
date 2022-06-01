@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m an undergratuate at University of Moratuwa
-- 🔭 I’m currently working as Software Engineer(Intern) at Sanmark Solutions
+- 🔭 I’m currently working as a Software Engineer(Intern) at Sanmark Solutions
 
 <!--
 **Dil-key/Dil-key** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
