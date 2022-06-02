@@ -27,14 +27,13 @@
 </div>
 <br>
 <hr>
+
+<h3> My GitHub Stats  :trophy: </h3>
 <br>
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=Dil-key&show_icons=true&theme=chartreuse-dark" width="400">
-<img src="https://github-readme-stats.vercel.app/api?username=Dil-key&show_icons=true&theme=chartreuse-dark" width="400">
+<div> 
+<img src="https://github-readme-stats.vercel.app/api?username=Dil-key&show_icons=true&theme=chartreuse-dark" width="500" height="300">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dil-key&theme=chartreuse-dark" width="500" height="300">
 </div>
-
-
 
 <!--
 **Dil-key/Dil-key** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
