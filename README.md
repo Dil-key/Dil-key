@@ -1,7 +1,11 @@
+
+
 ### Hi there 👋
 
 - 🌱 I’m an undergratuate at University of Moratuwa
 - 🔭 I’m currently working as a Software Engineer(Intern) at Sanmark Solutions
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dil-key&show_icons=true&theme=chartreuse-dark" width="400">
 
 <!--
 **Dil-key/Dil-key** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
