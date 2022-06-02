@@ -32,7 +32,7 @@
 <br>
 <hr>
 
-<h3> My GitHub Stats  :trophy: </h3>
+<h3> My Performance on GitHub :trophy: </h3>
 <div> 
 <img src="https://github-readme-stats.vercel.app/api?username=Dil-key&show_icons=true&theme=chartreuse-dark" width="400" height="300">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dil-key&theme=chartreuse-dark" width="400" height="300">
