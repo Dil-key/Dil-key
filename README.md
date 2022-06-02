@@ -9,6 +9,7 @@
 
 - 🌱 I’m an undergratuate at University of Moratuwa
 - 🔭 I’m currently working as a Software Engineer(Intern) at Sanmark Solutions
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Dil-key/)
 
 <hr>
 <h3>Languages and Tools</h3>
