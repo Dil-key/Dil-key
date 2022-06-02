@@ -10,6 +10,9 @@
 - 🌱 I’m an undergratuate at University of Moratuwa
 - 🔭 I’m currently working as a Software Engineer(Intern) at Sanmark Solutions
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Dil-key/)
+- ⚡ Fun fact : 
+    -  I love to play Cricket :cricket_game: and Netball :volleyball:
+    -  I'm interested in Works of Art :art: :sewing_needle: 	:thread: 	:framed_picture:
 
 <hr>
 
