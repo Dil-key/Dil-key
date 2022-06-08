@@ -12,7 +12,7 @@
 - :mailbox: How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Dil-key/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/dilki.lakshani.5243) or ![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)               (lakshani.18@itfac.mrt.ac.lk)
 
 - ⚡ Fun fact : 
-    -  I love to play Cricket :cricket_game: and Netball :volleyball:
+    -  I love to play Cricket :cricket_game: , Badminton :badminton: and Netball :volleyball:
     -  I'm interested in Works of Art :art: :sewing_needle: 	:thread: 	:framed_picture:
 
 <hr>
